@@ -13,4 +13,5 @@ Based on workshop by Prof. Conrad Bessant. Available at: https://github.com/conr
 ├── protein_table.tsv
 └── templates
     ├── index_page.html
-    └── protein_view.html``` 
+    └── protein_view.html
+
