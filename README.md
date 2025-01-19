@@ -1,6 +1,6 @@
-# Source Dir./Repos.: flask_practice
-## Program file name(s): flask_protein_portal_rtemplates.py
-## Program/Library requisite(s): Flask, Python 3, Pandas, flask-wtf
+# Directory: flask_practice
+### Program file name(s): flask_protein_portal_rtemplates.py
+### Program/Library requisite(s): Flask, Python 3, Pandas, flask-wtf
 ### Last updated: 19/01/2025
 Basic practice introduction to web development practice using Python Flask.
 Based on workshop by Prof. Conrad Bessant. Available at: https://github.com/conradbessant/webintro/ .
